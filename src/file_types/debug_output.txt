@@ -1,0 +1,4 @@
+Could not determine the type of an array. s: String y: i64 Key: String("maxTextureSize") -> Value: Integer(4096)
+Could not determine the type of an array. s: String y: i64 Key: String("maxTextureSize") -> Value: Integer(4096)
+Could not determine the type of an array. s: String y: i64 Key: String("maxTextureSize") -> Value: Integer(4096)
+Could not determine the type of an array. s: String y: i64 Key: String("maxTextureSize") -> Value: Integer(4096)
